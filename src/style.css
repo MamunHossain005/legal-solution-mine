@@ -1,0 +1,12 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* common styles and utilities */
+h1, h2, h3, h4, h5, h6, #accordion-collapse span, form {
+    font-family: 'EB Garamond', serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}

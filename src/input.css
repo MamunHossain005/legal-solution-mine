@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .primary-text {
+        @apply text-base font-normal text-[#707070];
+    }
+}

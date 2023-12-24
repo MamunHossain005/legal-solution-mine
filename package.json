@@ -1,0 +1,21 @@
+{
+  "name": "legal-solution-mine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "daisyui": "^4.4.23",
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "flowbite": "^2.2.1",
+    "tw-elements": "^1.1.0"
+  }
+}
